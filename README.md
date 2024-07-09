@@ -12,7 +12,6 @@ durante el curso de <br>"Principiante en programación"
 
 ## 📝 Lenguajes utilizaados
 
-<img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136530.png"><img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136528.png"><img height="36" src="https://cdn-icons-png.flaticon.com/512/136/136527.png">
 
 
 ## ✔️ Requisitos del desafío 
